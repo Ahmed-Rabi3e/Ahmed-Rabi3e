@@ -9,12 +9,12 @@
 
 I'm a passionate front-end developer with a knack for creating visually stunning and user-friendly web applications. With a keen eye for design and a love for coding, I strive to bring life to every project I work on.
 
+  <img src="/processing.gif" align="right" width="25%"/>
+
 - 💼 Currently working at [Company Name]
 - 🌱 Learning React Native
 - 💻 Skills: HTML, CSS, JavaScript, React, Vue.js, SASS, Bootstrap
   
-  <img src="https://images.app.goo.gl/RVfCxjz1A7SybPJ2A" align="right" width="25%"/>
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 - 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
 - 🔍 I have 2 live apps: 
