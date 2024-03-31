@@ -23,7 +23,7 @@ I'm a passionate front-end developer from Egypt with a knack for creating visual
 Here are some of my highlighted projects:
 
 1. [DashBoard](Link) - A brief description of the project.
-2. [Hoo Bank App](https://hooo-bank-app.netlify.app/) - Amazing Bank App with (Tailwind CSS + React-Router + Vite )
+2. [Hoo Bank App](https://hooo-bank-app.netlify.app/) - Modern UI/UX Bank App with (Tailwind CSS + React-Router + Vite )
 3. [Project Name](Link) - A brief description of the project.
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed-rabi3e&show_icons=true&locale=en" alt="ahmed-rabi3e" /></p>
