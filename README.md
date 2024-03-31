@@ -10,7 +10,7 @@ I'm a passionate front-end developer from Egypt with a knack for creating visual
 
   <img src="/processing.gif" align="right" width="25%"/>
   
-- 🔭 I'm a software developer working remotely with **[@Skool]()** in Germany.
+- 🔭 I'm a software developer working remotely with **Skool** in Germany.
 - 💻 I'm working now as a Freelancer.
 - 💼 I’m currently working on **Back End Development**
 - 🌱 Learning React Native
