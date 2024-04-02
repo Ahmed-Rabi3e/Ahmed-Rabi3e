@@ -26,7 +26,8 @@ Here are some of my highlighted projects:
 2. [BrainWave](https://brain-wave-ui-ux.netlify.app/) - BrainWave Modern UI/UX with (React + Tailwind CSS + Figma + Vite ).
 3. [Hoo Bank App](https://hooo-bank-app.netlify.app/) - Modern UI/UX Bank App with (Tailwind CSS + React-Router + Vite ).
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed-rabi3e&show_icons=true&locale=en" alt="ahmed-rabi3e" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-rabi3e&show_icons=true&locale=en&layout=compact" alt="ahmed-rabi3e" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-rabi3e&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-rabi3e" /> </p>
 
@@ -60,3 +61,4 @@ Here are some of my highlighted projects:
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-rabi3e&" alt="ahmed-rabi3e" /></p>
