@@ -14,7 +14,8 @@ I'm a passionate front-end developer from Egypt with a knack for creating visual
 - 💻 I'm working now as a Freelancer.
 - 💼 I’m currently working on **Back End Development**
 - 💻 Skills: HTML, CSS, JavaScript, React, Typescript, Tailwind, Threejs
-- 👨‍💻 All of my projects are available at [My WibeSite Portfolio](https://ahmed-rabie.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ahmed-rabie.netlify.app/)
+- 👨‍💻 All of my projects are available at 3d Portfolio [3D Portfolio](https://ahmed-rabi3e.vercel.app/)
 - 📫 How to reach me **ahmedrabie54524@gmail.com**
 
  
